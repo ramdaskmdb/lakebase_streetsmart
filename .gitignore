@@ -1,0 +1,13 @@
+# Only the folders needed to run the code are tracked: notebooks/ and data/.
+
+# Blog post and its images
+blog/
+
+# Helper scripts (diagram source, image renderer, psql helper)
+scripts/
+
+# Results from an earlier evaluation run
+run_output/
+
+# OS files
+.DS_Store
